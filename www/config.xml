@@ -51,7 +51,7 @@
         <gap:plugin name="Example" />
         A list of available plugins are available at https://build.phonegap.com/docs/plugins
     -->
-    <gap:plugin name="cordova-plugin-ble-central" />
+<gap:plugin name="cordova-plugin-ble-central" source="npm" />
     <gap:plugin name="io.litehelpers.cordova.sqlite" />
 
     <!-- Define app icon for each platform. -->
